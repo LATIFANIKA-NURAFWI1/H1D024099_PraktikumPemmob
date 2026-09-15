@@ -11,6 +11,8 @@
 
 # Screenshot Pertemuan 2
 
-![Screenshot Pertemuan 2](screenshot2-1.png)
-!(screenshot2-2.png)
-!(screenshot2-3.png)
+![Screenshot Pertemuan 2 - 1](screenshot2-1.png)
+
+![Screenshot Pertemuan 2 - 2](screenshot2-2.png)
+
+![Screenshot Pertemuan 2 - 3](screenshot2-3.png)
