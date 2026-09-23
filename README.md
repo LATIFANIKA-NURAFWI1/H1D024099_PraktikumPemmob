@@ -16,3 +16,17 @@
 ![Screenshot Pertemuan 2 - 2](screenshot2-2.png)
 
 ![Screenshot Pertemuan 2 - 3](screenshot2-3.png)
+
+# Screenshot Pertemuan 3
+
+### Light Theme
+<p align="center">
+  <img src="screenshot3-l1.png" width="45%" />
+  <img src="screenshot3-l2.png" width="45%" />
+</p>
+
+### Dark Theme
+<p align="center">
+  <img src="screenshot3-d1.png" width="45%" />
+  <img src="screenshot3-d2.png" width="45%" />
+</p>
