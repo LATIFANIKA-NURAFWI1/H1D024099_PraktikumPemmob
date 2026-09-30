@@ -35,4 +35,8 @@
 
 <video src="pert4.mp4" controls="controls" width="100%"></video>
 
-[Tonton Video Demo (pert4.mp4)](pert4.mp4)
+[Tonton Video (pertemuan4.mp4)](pertemuan4.mp4)
+
+https://github.com/user-attachments/assets/293e0ac4-feea-4c7a-ac0b-deb5ed3f77b7
+
+
