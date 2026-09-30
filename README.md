@@ -30,3 +30,9 @@
   <img src="screenshot3-d1.png" width="45%" />
   <img src="screenshot3-d2.png" width="45%" />
 </p>
+
+# Screenshot Pertemuan 4
+
+<video src="pert4.mp4" controls="controls" width="100%"></video>
+
+[Tonton Video Demo (pert4.mp4)](pert4.mp4)
