@@ -33,6 +33,6 @@
 
 # Screenshot Pertemuan 4
 
-<video src="pert4.mp4" controls="controls" width="100%"></video>
+<video src="pertemuan4.mp4" controls="controls" width="100%"></video>
 
-[Tonton Video Demo (pert4.mp4)](pert4.mp4)
+[Tonton Video Pertemuan 4 (pertemuan4.mp4)](pertemuan4.mp4)
