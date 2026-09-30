@@ -31,16 +31,12 @@
   <img src="screenshot3-d2.png" width="45%" />
 </p>
 
-# Screenshot Pertemuan 4
+# Video Pertemuan 4
 
 <video src="pertemuan4.mp4" controls="controls" width="100%"></video>
 
-<<<<<<< HEAD
 [Tonton Video Pertemuan 4 (pertemuan4.mp4)](pertemuan4.mp4)
-=======
-[Tonton Video (pertemuan4.mp4)](pertemuan4.mp4)
 
 https://github.com/user-attachments/assets/293e0ac4-feea-4c7a-ac0b-deb5ed3f77b7
 
 
->>>>>>> 0c4b70d5fa70a4b28e3942a909316ad315755284
